@@ -666,4 +666,11 @@ footer .icon-footer .text-footer p{
         position: absolute;
         left: 12%;
     }
+
+    .logo img {
+        width: 6rem;
+        cursor: pointer;
+        border-radius: 8px;
+        background-color: #4F6F52;
+    }
 }
